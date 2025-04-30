@@ -13,7 +13,7 @@ export default function Home() {
       <section className="w-full max-w-3xl mx-auto p-8 rounded-3xl shadow-2xl bg-white/80 dark:bg-gray-950/90 backdrop-blur-lg border border-gray-200 dark:border-gray-800">
         <div className="flex flex-col items-center gap-6">
           <img
-            src="/public\profile\ChatGPT Image Mar 31, 2025, 10_58_50 PM.png"
+            src="public\Image\soksan-profile.jpg"
             alt="Your Avatar"
             className="w-28 h-28 rounded-full border-4 border-blue-500 shadow-lg mb-2"
             style={{ objectFit: "cover" }}
